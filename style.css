@@ -1,0 +1,27 @@
+label{
+    display:block;
+    padding:10px;
+}
+form{
+    text-align:center;
+    background-color: #00ffff;
+    margin:10px 500px 10px 500px;
+   
+}
+body{
+    
+    
+}
+h1{
+    text-align: center;
+}
+#submit{
+    padding:10px;
+    
+}
+input[type=submit]{
+    background-color: beige;
+}
+input[type=submit]:hover{
+    background-color: rgb(255, 0, 221);
+}
